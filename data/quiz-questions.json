@@ -1,0 +1,237 @@
+[
+  {
+    "question": "What is Artificial Intelligence (AI)?",
+    "correct_answer": "A field of computer science focused on creating systems that can perform tasks that typically require human intelligence.",
+    "wrong_answers": [
+      "A type of hardware used in supercomputers.",
+      "A programming language used for web development.",
+      "A type of smartphone operating system."
+    ],
+    "resources": [
+      "https://www.datacamp.com/blog/how-to-learn-ai",
+      "https://www.isaca.org/resources/artificial-intelligence"
+    ]
+  },
+  {
+    "question": "Which of the following is an example of AI application in healthcare?",
+    "correct_answer": "AI-powered diagnostic tools that can analyze medical images.",
+    "wrong_answers": [
+      "Online appointment booking systems.",
+      "Automated billing systems.",
+      "Electronic health record storage."
+    ],
+    "resources": [
+      "https://www.coursera.org/articles/ai-in-health-care",
+      "https://health.clevelandclinic.org/ai-in-healthcare"
+    ]
+  },
+  {
+    "question": "What is machine learning?",
+    "correct_answer": "A subset of AI that involves training algorithms to learn from and make predictions based on data.",
+    "wrong_answers": [
+      "A type of machine used in manufacturing.",
+      "A programming language used for data analysis.",
+      "A method of teaching machines to perform manual labor."
+    ],
+    "resources": [
+      "https://www.tensorflow.org/resources/learn-ml",
+      "https://www.reddit.com/r/learnmachinelearning/comments/bpjh2a/learning_machine_learning_resources/"
+    ]
+  },
+  {
+    "question": "What is the purpose of natural language processing (NLP)?",
+    "correct_answer": "To enable computers to understand, interpret, and respond to human language.",
+    "wrong_answers": [
+      "To design computer hardware that can recognize speech.",
+      "To create websites with multiple languages.",
+      "To develop algorithms for data encryption."
+    ],
+    "resources": [
+      "https://www.deeplearning.ai/resources/natural-language-processing/",
+      "https://www.mltut.com/best-resources-to-learn-natural-language-processing/"
+    ]
+  },
+  {
+    "question": "Which of the following is a common application of AI in transportation?",
+    "correct_answer": "Autonomous vehicles or self-driving cars.",
+    "wrong_answers": [
+      "GPS navigation systems.",
+      "Traffic lights.",
+      "Public transportation schedules."
+    ],
+    "resources": [
+      "https://www.prismetric.com/ai-in-transportation/",
+      "https://digitaldefynd.com/IQ/ai-in-transportation/"
+    ]
+  },
+  {
+    "question": "What is the Turing Test?",
+    "correct_answer": "A test to determine if a machine can exhibit intelligent behavior indistinguishable from that of a human.",
+    "wrong_answers": [
+      "A test to measure the speed of a computer processor.",
+      "A method to assess the durability of materials.",
+      "A technique used to encrypt data."
+    ],
+    "resources": [
+      "https://www.turing.com/blog/turing-developer-test-preparation-tips",
+      "https://blog.smartbrain.io/turing-developer-test-preparation-tips.html"
+    ]
+  },
+  {
+    "question": "Which AI technique is used for visual recognition tasks?",
+    "correct_answer": "Convolutional Neural Networks (CNNs).",
+    "wrong_answers": [
+      "Decision Trees.",
+      "Genetic Algorithms.",
+      "Support Vector Machines (SVMs)."
+    ],
+    "resources": [
+      "https://www.promaticsindia.com/blog/top-facial-and-image-recognition-apis-in-2025",
+      "https://azure.microsoft.com/en-us/products/ai-services/ai-vision"
+    ]
+  },
+  {
+    "question": "What is deep learning?",
+    "correct_answer": "A subset of machine learning that involves neural networks with many layers.",
+    "wrong_answers": [
+      "A type of underwater data collection.",
+      "A method of teaching AI to perform manual tasks.",
+      "A programming language used for developing AI applications."
+    ],
+    "resources": [
+      "https://www.deeplearning.ai/resources/",
+      "https://github.com/ChristosChristofidis/awesome-deep-learning"
+    ]
+  },
+
+  {
+    "question": "What is reinforcement learning?",
+    "correct_answer": "A type of machine learning where an agent learns to make decisions by taking actions in an environment to maximize cumulative reward.",
+    "wrong_answers": [
+      "A method of programming robots to perform repetitive tasks.",
+      "A technique used to reinforce data security.",
+      "A way to enhance computer hardware performance."
+    ],
+    "resources": [
+      "https://www.openai.com/research/introduction-to-reinforcement-learning",
+      "https://deepmind.com/research/highlighted-research/reinforcement-learning"
+    ]
+  },
+  {
+    "question": "What is a neural network?",
+    "correct_answer": "A computational model inspired by the way biological neural networks in the brain process information.",
+    "wrong_answers": [
+      "A network of interconnected computers.",
+      "A system for managing data storage.",
+      "A type of internet connection."
+    ],
+    "resources": [
+      "https://www.ibm.com/cloud/learn/neural-networks",
+      "https://www.technologyreview.com/2017/10/26/241837/explaining-neural-networks/"
+    ]
+  },
+  {
+    "question": "What is computer vision?",
+    "correct_answer": "A field of AI that enables computers to interpret and process visual information from the world.",
+    "wrong_answers": [
+      "A software for computer graphics design.",
+      "A technique for creating 3D models.",
+      "A method of optimizing screen resolution."
+    ],
+    "resources": [
+      "https://www.coursera.org/learn/computer-vision-basics",
+      "https://www.mathworks.com/solutions/computer-vision.html"
+    ]
+  },
+  {
+    "question": "What is the main goal of AI ethics?",
+    "correct_answer": "To ensure the responsible and fair development and use of AI technologies.",
+    "wrong_answers": [
+      "To create more efficient AI algorithms.",
+      "To enhance the speed of data processing.",
+      "To improve the hardware used in AI systems."
+    ],
+    "resources": [
+      "https://aiethicslab.com/what-is-ai-ethics/",
+      "https://www.brookings.edu/research/artificial-intelligence-and-ethics/"
+    ]
+  },
+  {
+    "question": "What is a chatbot?",
+    "correct_answer": "An AI application that simulates human conversation, often through text or voice interactions.",
+    "wrong_answers": [
+      "A robot designed for physical tasks.",
+      "A type of social media platform.",
+      "A system for automating emails."
+    ],
+    "resources": [
+      "https://www.salesforce.com/eu/learning-centre/technology/what-is-a-chatbot/",
+      "https://blog.hubspot.com/marketing/chatbot-guide"
+    ]
+  },
+  {
+    "question": "What is predictive analytics?",
+    "correct_answer": "The use of statistical techniques and machine learning algorithms to analyze historical data and make predictions about future events.",
+    "wrong_answers": [
+      "A method of tracking current data in real-time.",
+      "A technique for visualizing data trends.",
+      "A process for encrypting data."
+    ],
+    "resources": [
+      "https://www.sas.com/en_us/insights/analytics/predictive-analytics.html",
+      "https://www.datacamp.com/community/tutorials/predictive-analytics-guide"
+    ]
+  },
+  {
+    "question": "Which AI technique is commonly used for speech recognition?",
+    "correct_answer": "Recurrent Neural Networks (RNNs).",
+    "wrong_answers": [
+      "K-Means Clustering.",
+      "Principal Component Analysis (PCA).",
+      "Linear Regression."
+    ],
+    "resources": [
+      "https://www.speechtechmag.com/Articles/Editorial/FYI/AI-and-Speech-Recognition-136260.aspx",
+      "https://towardsdatascience.com/speech-recognition-using-deep-learning-what-why-and-how-34790c7c7cd5"
+    ]
+  },
+  {
+    "question": "What is a generative adversarial network (GAN)?",
+    "correct_answer": "A type of neural network that consists of two networks, one generating data and the other evaluating it, used for creating realistic synthetic data.",
+    "wrong_answers": [
+      "A network of AI models used for cybersecurity.",
+      "A system for optimizing data storage.",
+      "A method of encrypting communication."
+    ],
+    "resources": [
+      "https://deepai.org/machine-learning-glossary-and-terms/generative-adversarial-network",
+      "https://www.technologyreview.com/2018/04/11/143581/gan-neural-networks-explained/"
+    ]
+  },
+  {
+    "question": "What is the main function of a recommender system?",
+    "correct_answer": "To suggest products, services, or content to users based on their preferences and behavior.",
+    "wrong_answers": [
+      "To monitor user activity on websites.",
+      "To manage user account settings.",
+      "To encrypt user data for security."
+    ],
+    "resources": [
+      "https://netflixtechblog.com/how-netflixs-recommendation-system-works-197de62f2f2e",
+      "https://www.amazon.science/topics/recommender-systems"
+    ]
+  },
+  {
+    "question": "What is the role of AI in cybersecurity?",
+    "correct_answer": "To detect, prevent, and respond to cyber threats by analyzing data patterns and predicting potential attacks.",
+    "wrong_answers": [
+      "To design physical security systems.",
+      "To manage user passwords.",
+      "To create antivirus software."
+    ],
+    "resources": [
+      "https://www.ibm.com/security/artificial-intelligence",
+      "https://www.csoonline.com/article/3211432/what-ai-can-and-cannot-do-for-cybersecurity.html"
+    ]
+  }
+]
