@@ -9,6 +9,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const quizFilePath = path.join(__dirname, "../data/ai_quiz_questions.json");
 
+// Get all quiz data
 router.get("/", (req, res) => {
   try {
     const data = fs.readFileSync(quizFilePath, "utf8");
@@ -19,4 +20,29 @@ router.get("/", (req, res) => {
   }
 });
 
+// GET a Single Question by Role, Level, and Question ID
+router.get("/role/:role/level/:level", (req, res) => {
+  try {
+    const { role, level } = req.params;
+
+    // Read the JSON file
+    const data = fs.readFileSync(quizFilePath, "utf8");
+    const parsedJSON = JSON.parse(data);
+
+    // Find the matching question
+    const question = parsedJSON.filter(
+      (q) =>
+        q.role.toLowerCase() === role.toLowerCase() &&
+        q.level.toLowerCase() === level.toLowerCase()
+    );
+
+    if (!question) {
+      return res.status(404).json({ error: "Question not found" });
+    }
+
+    res.status(200).json(question);
+  } catch (error) {
+    res.status(500).json({ error: "Error fetching question data" });
+  }
+});
 export default router;

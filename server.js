@@ -13,10 +13,6 @@ app.use(express.json());
 // Routes
 app.use("/quiz", quizRoutes);
 
-app.get("/", (req, res) => {
-  res.send("Reached the server!");
-});
-
 app.listen(PORT, function () {
   console.log(`listening on http://localhost:${PORT}`);
 });
