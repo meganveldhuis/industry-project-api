@@ -222,7 +222,7 @@
     "link": "https://en.wikipedia.org/wiki/Reinforcement_learning"
   },
   {
-    "id": "17",
+    "id": "18",
     "role": "student",
     "level": "Advanced",
     "question": "What is Transfer Learning in AI?",
@@ -236,7 +236,7 @@
     "link": "https://www.tensorflow.org/tutorials/transfer_learning"
   },
   {
-    "id": "18",
+    "id": "19",
     "role": "developer",
     "level": "Easy",
     "question": "What does AI stand for?",
@@ -248,59 +248,59 @@
     ],
     "explanation": "AI stands for Artificial Intelligence, referring to machines simulating human intelligence.",
     "link": "https://en.wikipedia.org/wiki/Artificial_intelligence"
-  },
-  {
-    "id": "19",
-    "role": "developer",
-    "level": "Easy",
-    "question": "Which of these is an example of AI application?",
-    "correct_answer": "Chatbots",
-    "incorrect_answers": ["Spreadsheets", "E-mail clients", "Text editors"],
-    "explanation": "Chatbots use AI to process and respond to user queries.",
-    "link": "https://www.ibm.com/cloud/learn/chatbots"
   },
   {
     "id": "20",
     "role": "developer",
     "level": "Easy",
+    "question": "Which of these is an example of AI application?",
+    "correct_answer": "Chatbots",
+    "incorrect_answers": ["Spreadsheets", "E-mail clients", "Text editors"],
+    "explanation": "Chatbots use AI to process and respond to user queries.",
+    "link": "https://www.ibm.com/cloud/learn/chatbots"
+  },
+  {
+    "id": "21",
+    "role": "developer",
+    "level": "Easy",
     "question": "Which company developed the AI model ChatGPT?",
     "correct_answer": "OpenAI",
     "incorrect_answers": ["Google", "Microsoft", "Amazon"],
     "explanation": "ChatGPT was created by OpenAI, a leading AI research organization.",
     "link": "https://openai.com/"
-  },
-  {
-    "id": "21",
-    "role": "developer",
-    "level": "Intermediate",
-    "question": "What is Machine Learning in AI?",
-    "correct_answer": "A technique that allows computers to learn from data without explicit programming",
-    "incorrect_answers": [
-      "A method to manually program AI behavior",
-      "A way to create computer chips",
-      "A new type of programming language"
-    ],
-    "explanation": "Machine Learning enables AI systems to improve performance based on experience.",
-    "link": "https://www.ibm.com/cloud/learn/machine-learning"
   },
   {
     "id": "22",
     "role": "developer",
     "level": "Intermediate",
-    "question": "Which AI technique is commonly used for image recognition?",
-    "correct_answer": "Deep Learning",
+    "question": "What is Machine Learning in AI?",
+    "correct_answer": "A technique that allows computers to learn from data without explicit programming",
     "incorrect_answers": [
-      "Robotic Process Automation",
-      "Neural Networks",
-      "Computer Vision"
+      "A method to manually program AI behavior",
+      "A way to create computer chips",
+      "A new type of programming language"
     ],
-    "explanation": "Deep Learning is a subset of Machine Learning that processes complex data like images.",
-    "link": "https://en.wikipedia.org/wiki/Deep_learning"
+    "explanation": "Machine Learning enables AI systems to improve performance based on experience.",
+    "link": "https://www.ibm.com/cloud/learn/machine-learning"
   },
   {
     "id": "23",
     "role": "developer",
     "level": "Intermediate",
+    "question": "Which AI technique is commonly used for image recognition?",
+    "correct_answer": "Deep Learning",
+    "incorrect_answers": [
+      "Robotic Process Automation",
+      "Neural Networks",
+      "Computer Vision"
+    ],
+    "explanation": "Deep Learning is a subset of Machine Learning that processes complex data like images.",
+    "link": "https://en.wikipedia.org/wiki/Deep_learning"
+  },
+  {
+    "id": "24",
+    "role": "developer",
+    "level": "Intermediate",
     "question": "What is Natural Language Processing (NLP) used for?",
     "correct_answer": "Understanding and generating human language",
     "incorrect_answers": [
@@ -310,25 +310,25 @@
     ],
     "explanation": "NLP enables computers to process and understand human languages like English and Spanish.",
     "link": "https://en.wikipedia.org/wiki/Natural_language_processing"
-  },
-  {
-    "id": "24",
-    "role": "developer",
-    "level": "Advanced",
-    "question": "What is a common challenge in AI ethics?",
-    "correct_answer": "Bias in AI models",
-    "incorrect_answers": [
-      "Lack of computing power",
-      "Inability to store data",
-      "Limited internet access"
-    ],
-    "explanation": "AI bias occurs when models reflect existing prejudices in training data.",
-    "link": "https://ai.google/responsibility/responsible-ai-practices/"
   },
   {
     "id": "25",
     "role": "developer",
     "level": "Advanced",
+    "question": "What is a common challenge in AI ethics?",
+    "correct_answer": "Bias in AI models",
+    "incorrect_answers": [
+      "Lack of computing power",
+      "Inability to store data",
+      "Limited internet access"
+    ],
+    "explanation": "AI bias occurs when models reflect existing prejudices in training data.",
+    "link": "https://ai.google/responsibility/responsible-ai-practices/"
+  },
+  {
+    "id": "26",
+    "role": "developer",
+    "level": "Advanced",
     "question": "Which of the following is a key component of Reinforcement Learning?",
     "correct_answer": "Reward function",
     "incorrect_answers": [
@@ -340,7 +340,7 @@
     "link": "https://en.wikipedia.org/wiki/Reinforcement_learning"
   },
   {
-    "id": "26",
+    "id": "27",
     "role": "developer",
     "level": "Advanced",
     "question": "What is Transfer Learning in AI?",
@@ -354,7 +354,7 @@
     "link": "https://www.tensorflow.org/tutorials/transfer_learning"
   },
   {
-    "id": "27",
+    "id": "28",
     "role": "manager",
     "level": "Easy",
     "question": "What does AI stand for?",
@@ -368,7 +368,7 @@
     "link": "https://en.wikipedia.org/wiki/Artificial_intelligence"
   },
   {
-    "id": "28",
+    "id": "29",
     "role": "manager",
     "level": "Easy",
     "question": "Which of these is an example of AI application?",
@@ -378,7 +378,7 @@
     "link": "https://www.ibm.com/cloud/learn/chatbots"
   },
   {
-    "id": "29",
+    "id": "30",
     "role": "manager",
     "level": "Easy",
     "question": "Which company developed the AI model ChatGPT?",
@@ -388,7 +388,7 @@
     "link": "https://openai.com/"
   },
   {
-    "id": "30",
+    "id": "31",
     "role": "manager",
     "level": "Intermediate",
     "question": "What is Machine Learning in AI?",
@@ -402,7 +402,7 @@
     "link": "https://www.ibm.com/cloud/learn/machine-learning"
   },
   {
-    "id": "31",
+    "id": "32",
     "role": "manager",
     "level": "Intermediate",
     "question": "Which AI technique is commonly used for image recognition?",
@@ -416,7 +416,7 @@
     "link": "https://en.wikipedia.org/wiki/Deep_learning"
   },
   {
-    "id": "32",
+    "id": "33",
     "role": "manager",
     "level": "Intermediate",
     "question": "What is Natural Language Processing (NLP) used for?",
@@ -430,7 +430,7 @@
     "link": "https://en.wikipedia.org/wiki/Natural_language_processing"
   },
   {
-    "id": "33",
+    "id": "34",
     "role": "manager",
     "level": "Advanced",
     "question": "What is a common challenge in AI ethics?",
@@ -444,7 +444,7 @@
     "link": "https://ai.google/responsibility/responsible-ai-practices/"
   },
   {
-    "id": "34",
+    "id": "35",
     "role": "manager",
     "level": "Advanced",
     "question": "Which of the following is a key component of Reinforcement Learning?",
@@ -458,7 +458,7 @@
     "link": "https://en.wikipedia.org/wiki/Reinforcement_learning"
   },
   {
-    "id": "35",
+    "id": "36",
     "role": "manager",
     "level": "Advanced",
     "question": "What is Transfer Learning in AI?",
@@ -472,7 +472,7 @@
     "link": "https://www.tensorflow.org/tutorials/transfer_learning"
   },
   {
-    "id": "36",
+    "id": "37",
     "role": "business owner",
     "level": "Easy",
     "question": "What does AI stand for?",
@@ -486,7 +486,7 @@
     "link": "https://en.wikipedia.org/wiki/Artificial_intelligence"
   },
   {
-    "id": "37",
+    "id": "38",
     "role": "business owner",
     "level": "Easy",
     "question": "Which of these is an example of AI application?",
@@ -496,7 +496,7 @@
     "link": "https://www.ibm.com/cloud/learn/chatbots"
   },
   {
-    "id": "38",
+    "id": "39",
     "role": "business owner",
     "level": "Easy",
     "question": "Which company developed the AI model ChatGPT?",
@@ -506,7 +506,7 @@
     "link": "https://openai.com/"
   },
   {
-    "id": "39",
+    "id": "40",
     "role": "business owner",
     "level": "Intermediate",
     "question": "What is Machine Learning in AI?",
@@ -520,7 +520,7 @@
     "link": "https://www.ibm.com/cloud/learn/machine-learning"
   },
   {
-    "id": "40",
+    "id": "41",
     "role": "business owner",
     "level": "Intermediate",
     "question": "Which AI technique is commonly used for image recognition?",
@@ -534,7 +534,7 @@
     "link": "https://en.wikipedia.org/wiki/Deep_learning"
   },
   {
-    "id": "41",
+    "id": "42",
     "role": "business owner",
     "level": "Intermediate",
     "question": "What is Natural Language Processing (NLP) used for?",
@@ -548,7 +548,7 @@
     "link": "https://en.wikipedia.org/wiki/Natural_language_processing"
   },
   {
-    "id": "42",
+    "id": "43",
     "role": "business owner",
     "level": "Advanced",
     "question": "What is a common challenge in AI ethics?",
@@ -562,7 +562,7 @@
     "link": "https://ai.google/responsibility/responsible-ai-practices/"
   },
   {
-    "id": "43",
+    "id": "44",
     "role": "business owner",
     "level": "Advanced",
     "question": "Which of the following is a key component of Reinforcement Learning?",
@@ -576,7 +576,7 @@
     "link": "https://en.wikipedia.org/wiki/Reinforcement_learning"
   },
   {
-    "id": "44",
+    "id": "45",
     "role": "business owner",
     "level": "Advanced",
     "question": "What is Transfer Learning in AI?",
