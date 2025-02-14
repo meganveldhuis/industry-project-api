@@ -20,7 +20,7 @@ router.get("/", (req, res) => {
   }
 });
 
-// GET a Single Question by Role, Level
+// GET a set of questions by Role, Level
 router.get("/role/:role/level/:level", (req, res) => {
   try {
     const { role, level } = req.params;
@@ -60,7 +60,7 @@ router.get("/role/:role/level/:level/questionId/:id", (req, res) => {
       (q) =>
         q.role.toLowerCase() === role.toLowerCase() &&
         q.level.toLowerCase() === level.toLowerCase() &&
-        q.id === id 
+        q.id === id
     );
 
     if (!question) {
@@ -72,6 +72,5 @@ router.get("/role/:role/level/:level/questionId/:id", (req, res) => {
     res.status(500).json({ error: "Error fetching question data" });
   }
 });
-
 
 export default router;
