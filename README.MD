@@ -1,13 +1,16 @@
 # Industry Project API
 
-- base url:  
-  http://localhost:8010
+- **Base URL**:  
+  `http://localhost:8010`
 
-- GET all quiz:
-  /quiz
+- **GET all quiz**:
 
-- GET a set of questions by Role, Level
-  /quiz/role/:role/level/:level
+  `/quiz`
 
-- GET a Single Question by Role, Level, and Question ID
-  /quiz/role/:role/level/:level/questionId/:id
+- **GET a set of questions by Role, Level**:
+
+  `/quiz/role/:role/level/:level`
+
+- **GET a single question by Role, Level, Question ID**:
+
+  `/quiz/role/:role/level/:level/questionId/:id`
